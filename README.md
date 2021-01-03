@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smd-linux-splash-dark-plasma
+Splash Screen for SMD-Linux
